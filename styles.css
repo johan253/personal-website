@@ -1,8 +1,12 @@
-html {background-color: rgb(10,0,30);}
-.body {
+html {background-color: rgb(20, 0, 30);}
+
+body {
     color: white;
+    background-color: rgba(10, 10, 10, 0.5);
 }
-#header {
-    background-color: black;
+header {
+    text-align: center;
+}
+.testing {
     text-align: center;
 }
