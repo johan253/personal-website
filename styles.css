@@ -1,4 +1,6 @@
-html {background-color: rgb(20, 0, 30);}
+html {
+    background-color: rgb(20, 0, 30);
+}
 
 body {
     color: white;
@@ -16,10 +18,16 @@ header {
 #list {
     text-align: left;
 }
+.space{
+    width: device-width;
+    height: 0.5in;
+    background: black;
+}
 .circle {
     width: 300px;
     height: 300px;
-    background: rgb(107, 23, 3);
+    background: rgb(100, 10, 10);
     border-radius: 50%;
     cursor:not-allowed;
+    margin: auto;
 }
